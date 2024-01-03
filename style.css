@@ -29,3 +29,11 @@
     font-size: 40px;
     transition: 1s linear;
 }
+hr{
+    -webkit-transform: rotate(90deg);
+    width: 20px;
+    border: 2px solid black;
+    position: absolute;
+    left: 357.5px;
+    top: 51px;
+}
