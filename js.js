@@ -16,7 +16,6 @@ function Forgatas(){
             intervalID = null
         }
     },100)
-    location.reload();
 }
 function Reset(){
     location.reload();
